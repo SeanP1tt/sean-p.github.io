@@ -1,0 +1,25 @@
+a {
+    color: white; /* You won't be able to see the links because they are white on a white page. Change the color to something different */
+}
+
+body {
+   /*background-color: deepskyblue;*/ 
+    
+    /*commenting can be good for keeping code from running and changing things on the page feel free to chage the background color as well by uncommenting the code.*/ 
+} 
+
+h1{
+    color: orange;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: red;
+}
+
+img {
+    border: 1px solid black; /* 1 pixel is the thickness of the border. Solid is the style. Black is the color. Mess aroudn with this a bit. */
+}
